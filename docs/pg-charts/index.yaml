@@ -3,12 +3,12 @@ entries:
   chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-17T13:53:06.703830234-03:00"
+    created: "2025-02-17T13:58:27.151415758-03:00"
     description: A Helm chart for Kubernetes
-    digest: 20270c613c34900d8d9afa182b6a0e303c9a8ce1e70e5792931f9ac097138406
+    digest: ed28e83642b45d3a2f6ce719a57f609f567f19fdc550d753c6af7e9bcc1fc1f8
     name: chart-test
     type: application
     urls:
     - https://paulogervasio.github.io/pg-charts/chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-17T13:53:06.702785945-03:00"
+generated: "2025-02-17T13:58:27.151140323-03:00"
