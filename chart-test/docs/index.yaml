@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-17T10:17:36.626681655-03:00"
+    description: A Helm chart for Kubernetes
+    digest: bdbd704d824f0d8d933738c9aea702775aedc307d4b6889712116112a3016ab4
+    name: chart-test
+    type: application
+    urls:
+    - https://paulogervasio.github.io/charts/chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-17T10:17:36.626380905-03:00"
