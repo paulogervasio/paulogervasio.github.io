@@ -9,6 +9,6 @@ entries:
     name: chart-test
     type: application
     urls:
-    - https://paulogervasio.github.io/paulogervasio.github.io/charts/chart-test-0.1.0.tgz
+    - https://paulogervasio.github.io/charts/chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2025-02-17T09:13:04.065840209-03:00"
